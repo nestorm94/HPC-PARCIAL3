@@ -8,12 +8,12 @@
 <br>
 <i><b>Asignatura:</b></i> Métricas de rendimiento HPC
 <br>
-<i><b>Estudiante 2:</b></i> Nestor Morales.
+<i><b>Estudiante:</b></i> Nestor Morales.
 <br>
 <i><b>Tema:</b></i> Tercer Parcial. Validación regresión logística con datasets encontrados.
 <br>
 <br>
-10/09/2022
+22/11/2022
 <br>
 </FONT>
 </div>
